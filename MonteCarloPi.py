@@ -1,6 +1,6 @@
 from random import randint
 
-n = 100_000
+n = 100_000_000
 
 
 def monte(n):
